@@ -111,5 +111,41 @@ def imprimirInformacion(diccionario):
 
 imprimirInformacion(costa_rica)
 
+'''
+RESULTADO DE LA EJECUCIÓN DEL CÓDIGOS
+=======================================================
 
+1. Actualiza los valores en diccionarios y listas
+[[10, 15, 20], [6, 7, 14]]
+[{'nombre': 'Enrique Martin Morales', 'pais': 'Puerto Rico'}, {'nombre': 'Chayanne', 'pais': 'Puerto Rico'}]
+{'México': ['Ciudad de México', 'Guadalajara', 'Monterrey'], 'Chile': ['Santiago', 'Concepción', 'Viña del Mar']}
+[{'latitud': 9.9355431, 'longitud': -84.9399704}]
+
+2. Crea la función iterarDiccionario(lista)
+nombre - Ricky Martin, pais - Puerto Rico
+nombre - Chayanne, pais - Puerto Rico
+nombre - José José, pais - México
+nombre - Juan Luis Guerra, pais - República Dominicana
+
+3. Crea la función iterarDiccionario2(llave, lista)
+Ricky Martin
+Chayanne
+José José
+Juan Luis Guerra
+
+4. Crea la función imprimirInformacion(diccionario)
+4 CIUDADES
+San José
+Limón
+Cartago
+Puntarenas
+
+5 COMIDAS
+gallo pinto
+casado
+tamales
+chifrijo
+olla de carne
+
+'''
 
